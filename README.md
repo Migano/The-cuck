@@ -21,5 +21,7 @@ Or manually:
 1. **Close Balatro**
 2. Install [UwUDev/balamod](https://github.com/UwUDev/balamod) as explained in their Readme
 3. Download `balamod/mods/cuck-joker.lua` from this repo and place in  `%appdata%/Balatro/mods`
-3. If not there already, download `balamod/api/center_hook.lua` from this repo and place in  `%appdata%/Balatro/apis`
-5. You can now launch Balatro and being cucked!
+4. Download `balamod/assets/1x/the cuck.png` from this repo and place in  `%appdata%/Balatro/mods/assets/1x`
+5. Download `balamod/assets/2x/the cuck.png` from this repo and place in  `%appdata%/Balatro/mods/assets/2x`
+6. If not there already, download `balamod/api/center_hook.lua` from this repo and place in  `%appdata%/Balatro/apis`
+7. You can now launch Balatro and being cucked!
